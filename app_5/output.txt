@@ -1,0 +1,2 @@
+Data read fromm input.txt: i am trader 
+ Date created Wed Jan 03 2024 11:20:57 GMT+0530 (India Standard Time)

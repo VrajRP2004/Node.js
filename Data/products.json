@@ -1,0 +1,124 @@
+[
+    {
+    "id": 1,
+    "name": "iPhone 13",
+    "color": "Midnight Green",
+    "ROM": 128,
+    "price": 999.99,
+    "modelname": "iPhone",
+    "modelnumber": "13",
+    "size": "6.1 inches",
+    "camera": "Dual 12MP",
+    "description": "The latest iPhone featuring a stunning Super Retina XDR display and advanced camera system."
+  },
+  {
+    "id": 2,
+    "name": "Samsung Galaxy S21",
+    "color": "Phantom Gray",
+    "ROM": 256,
+    "price": 899.99,
+    "modelname": "Galaxy",
+    "modelnumber": "S21",
+    "size": "6.2 inches",
+    "camera": "Triple 12MP",
+    "description": "Powerful performance and a versatile camera setup make the Galaxy S21 a flagship choice."
+  },
+  {
+    "id": 3,
+    "name": "Google Pixel 6",
+    "color": "Clearly White",
+    "ROM": 128,
+    "price": 799.99,
+    "modelname": "Pixel",
+    "modelnumber": "6",
+    "size": "6.4 inches",
+    "camera": "Dual 50MP",
+    "description": "Capture extraordinary photos with the Pixel 6's AI-powered camera and enjoy a pure Android experience."
+  },
+  {
+    "id": 4,
+    "name": "OnePlus 9 Pro",
+    "color": "Morning Mist",
+    "ROM": 256,
+    "price": 899.00,
+    "modelname": "OnePlus",
+    "modelnumber": "9 Pro",
+    "size": "6.7 inches",
+    "camera": "Quad 48MP",
+    "description": "A flagship device with a powerful camera system and a smooth 120Hz Fluid Display."
+  },
+  {
+    "id": 5,
+    "name": "Xiaomi Mi 11",
+    "color": "Horizon Blue",
+    "ROM": 128,
+    "price": 699.99,
+    "modelname": "Mi",
+    "modelnumber": "11",
+    "size": "6.81 inches",
+    "camera": "Triple 108MP",
+    "description": "Experience cutting-edge technology with the Mi 11's impressive display and high-resolution camera."
+  },
+  {
+    "id": 6,
+    "name": "Huawei P40",
+    "color": "Silver Frost",
+    "ROM": 256,
+    "price": 799.00,
+    "modelname": "Huawei",
+    "modelnumber": "P40",
+    "size": "6.1 inches",
+    "camera": "Triple 50MP",
+    "description": "A flagship phone with a Leica camera system and powerful Kirin processor for exceptional performance."
+  },
+  {
+    "id": 7,
+    "name": "Sony Xperia 1 III",
+    "color": "Black",
+    "ROM": 256,
+    "price": 1199.99,
+    "modelname": "Xperia",
+    "modelnumber": "1 III",
+    "size": "6.5 inches",
+    "camera": "Quad 12MP",
+    "description": "An Xperia flagship with a 4K HDR OLED display and advanced camera technologies."
+  },
+  {
+    "id": 8,
+    "name": "LG G8 ThinQ",
+    "color": "Aurora Black",
+    "ROM": 128,
+    "price": 699.00,
+    "modelname": "G8 ThinQ",
+    "modelnumber": "G820",
+    "size": "6.1 inches",
+    "camera": "Dual 12MP",
+    "description": "An LG flagship with innovative features, including Hand ID for secure authentication."
+  },
+  {
+    "id": 9,
+    "name": "Motorola Moto G Power",
+    "color": "Flash Gray",
+    "ROM": 64,
+    "price": 249.99,
+    "modelname": "Moto G Power",
+    "modelnumber": "XT2041",
+    "size": "6.4 inches",
+    "camera": "Triple 16MP",
+    "description": "A budget-friendly smartphone with a large battery for long-lasting power."
+  },
+  {
+    "id": 10,
+    "name": "Nokia 8.3 5G",
+    "color": "Polar Night",
+    "ROM": 128,
+    "price": 499.00,
+    "modelname": "Nokia",
+    "modelnumber": "8.3 5G",
+    "size": "6.81 inches",
+    "camera": "Quad 64MP",
+    "description": "A Nokia phone with 5G connectivity and ZEISS optics for exceptional camera performance."
+  }
+                
+]  
+  
